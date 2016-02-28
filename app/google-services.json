@@ -1,0 +1,91 @@
+{
+  "project_info": {
+    "project_id": "default-demo-app-28628",
+    "project_number": "956162299055",
+    "name": "Default Demo App"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956162299055:android:27d689d63f1b7a06",
+        "client_id": "android:com.google.samples.quickstart.signin",
+        "client_type": 1,
+        "android_client_info": {
+          "package_name": "com.google.samples.quickstart.signin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "956162299055-qk7gpibb1kr4ir7lr0l47an8dgtmn2mb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "cloud_messaging_service": {
+          "status": 1,
+          "apns_config": []
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "google_signin_service": {
+          "status": 1
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956162299055:android:7dfc926d5f39df52",
+        "client_id": "android:com.atlabs.home.androidgoogleplacesautocomplete",
+        "client_type": 1,
+        "android_client_info": {
+          "package_name": "com.atlabs.home.androidgoogleplacesautocomplete"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "956162299055-39q6ltdn4qqj0uopsgj8t4o6v8hrg8m6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.atlabs.home.androidgoogleplacesautocomplete",
+            "certificate_hash": "434E6DDA27B31E90EDBB8340B05BE7229E25B0AA"
+          }
+        },
+        {
+          "client_id": "956162299055-qk7gpibb1kr4ir7lr0l47an8dgtmn2mb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "cloud_messaging_service": {
+          "status": 1,
+          "apns_config": []
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "google_signin_service": {
+          "status": 2
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "client_info": [],
+  "ARTIFACT_VERSION": "1"
+}
